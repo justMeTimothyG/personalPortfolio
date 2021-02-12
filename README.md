@@ -48,3 +48,20 @@ This Page should highlight my Personality. Focus on Story Telling, but keep it o
 
 Other than that. Show that I am a person and not just a Photographer. I like doing so many things. 
 Highlight things about by Law Studies, My Proffesion of Nursing and my aptitude towards tech and my current journey with web development. 
+
+Gallery 
+===
+Should I go for a Pinterest style page or a simple grid ? how can I man this experience simple but enticing. Animation as sparkles to be a bit more memorable?
+Still much thought needed. 
+
+Testimonials 
+===
+Once I have some I should finish this. low priority for now. 
+
+Pricing
+===
+A sore topic for me. I can't really decide on the pricing. but the page can be built anyway. Think of packages and using psychology here. 
+
+Impressum
+===
+Keep up with the legalities so people can't sue a person for not inclduing all the necessary Details that comes with doing business and having an online presence
